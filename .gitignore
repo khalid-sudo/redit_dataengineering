@@ -1,0 +1,4 @@
+.history/
+.venv/
+*.pyc
+uv.lock
